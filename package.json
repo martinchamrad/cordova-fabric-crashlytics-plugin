@@ -1,0 +1,41 @@
+{
+    "name": "cordova-fabric-crashlytics-plugin",
+    "version": "0.0.2-dev",
+    "description": "cordova-fabric-crashlytics-plugin",
+    "cordova": {
+        "id": "cordova-fabric-plugin",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/martinchamrad/cordova-fabric-crashlytics-plugin"
+    },
+    "keywords": [
+        "cordova",
+        "fabric",
+        "crashlytics",
+        "answers",
+        "events",
+        "device",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+    ],
+    "author": "Roman A. Sarria",
+    "contributors": [
+        {
+            "name": "Justin Unterreiner",
+            "email": "justin.unterreiner@gmail.com",
+            "url": "https://github.com/Justin-Credible"
+        },
+        {
+            "name": "Eric McNiece",
+            "email": "emcniece@gmail.com",
+            "url": "https://github.com/emcniece"
+        }
+    ],
+    "license": "MIT"
+}
